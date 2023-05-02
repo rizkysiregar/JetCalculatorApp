@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
                             textAlign = TextAlign.End,
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(vertical = 32.dp),
+                                .padding(vertical = 18.dp),
                             fontWeight = FontWeight.Light,
                             fontSize = 80.sp,
                             color = Color.White,
